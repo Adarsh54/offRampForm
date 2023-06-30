@@ -1,0 +1,11 @@
+.payBox {
+    height: 75px;
+    border: none;
+    border-radius: 9px;
+    background-color: rgb(20, 217, 177);
+}
+
+.GPay{
+    max-Width: 100px;
+    max-Height: 100px;
+}

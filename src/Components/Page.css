@@ -1,0 +1,16 @@
+.sellButton {
+    border: none;
+    height: 75px;
+    width: 100%;
+    font-size: 30px;
+    background-color: rgb(20, 217, 177);
+    border-radius: 12px;
+    font-family: 'Inter';
+    color: white;
+}
+
+p {
+    font-family: 'Inter';
+    font-size: 20px;
+    color: black;
+}
